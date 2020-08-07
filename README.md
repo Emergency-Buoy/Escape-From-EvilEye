@@ -9,8 +9,12 @@ Escape-From-EvilEye
 我想大家也知道了，因此我也希望大家能够进行一个挑战，就是看看我们的内容如果放到大眼怪上能够传播多远传播多久。
 
 同时我也需要借用你们的力量来帮助所有希望逃离大眼怪但茫然无措的普通人。这就是为什么这是一个开源项目的缘故，希望能够利用大家的力量来帮助更多的人，而被我们帮助的人能再帮更多的人。
+
+因此如果你是第一次来到GitHub这个地方并想要了解更多，或者求问解难。点击上方的*Issues*后选择*New issue*即可提出你的问题，我们会在之后进行解答。
+
 ***** 
-废话不多说
+
+那么废话不多说
 
 ### 以下便是正文（或者说正图？）
 ![Escape-From-EvilEye-Guide-1](https://raw.githubusercontent.com/Emergency-Buoy/Escape-From-EvilEye/master/Escape-From-EvilEye-1.jpg)
