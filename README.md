@@ -19,6 +19,6 @@ Escape-From-EvilEye
 那么废话不多说
 
 ### 以下便是正文（或者说正图？）
-![Escape-From-EvilEye-Guide-1](https://raw.githubusercontent.com/Emergency-Buoy/Escape-From-EvilEye/master/Escape-From-EvilEye-1.jpg)
+![Escape-From-EvilEye-Guide-1](https://i.loli.net/2020/08/12/tRWngfXYZuBoyDK.jpg)
 
-![Escape-From-EvilEye-Guide-2](https://raw.githubusercontent.com/Emergency-Buoy/Escape-From-EvilEye/master/Escape-From-EvilEye-2.jpg)
+![Escape-From-EvilEye-Guide-2](https://i.loli.net/2020/08/12/FfsZoAG4qpVxrN8.jpg)
